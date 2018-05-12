@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6850
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Wieck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16658#Piano-and-Song--13-How-to-Teach-How-to-Learn-and-How-to-Form-a-Judgment-of-Musical-Performanc_
 gutenberg_bookshelf: Music
 gutenberg_issued: '2005-09-05'
 gutenberg_type: Text
